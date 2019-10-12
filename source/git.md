@@ -26,6 +26,7 @@
 - [Version Control by Example](http://ericsink.com/vcbe/html/bk01-toc.html) #book
 - [GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases) #guide 
 - [Visualizing Git](https://git-school.github.io/visualizing-git) #tool
+- [Become a Git Ninja: 7 Productivity Tips](https://blog.bitsrc.io/become-a-git-ninja-7-productivity-tips-9b452fe5b4a9) #article
 
 ## Git Workflow
     
