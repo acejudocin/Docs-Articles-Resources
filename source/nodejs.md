@@ -34,6 +34,7 @@
 - [From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless](https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56) #article #guide
 - [Best Practices For Using TypeScript with Node.js](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803) #article #guide
 - [Design patterns in Node.js: A practical guide](https://blog.logrocket.com/design-patterns-in-node-js/) #article
+- [How to send an SMS in Node.js via SMPP Gateway](https://medium.com/free-code-camp/how-to-send-an-sms-in-node-js-via-smpp-gateway-9c7b12e4600a) #tutorial
 
 ## Deployment
 
