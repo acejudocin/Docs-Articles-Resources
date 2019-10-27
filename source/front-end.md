@@ -27,7 +27,9 @@
 - [Grab's Front End Study Guide](http://engineering.grab.com/grabs-front-end-study-guide) #guide #tutorial
 - [5 Tips for Starting a Front-End Refactor](https://css-tricks.com/5-tips-starting-front-end-refactor/) #article #guide
 - [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727) #article
-- [The State of the Web - A guide to impactful performance improvements](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) #article **#mustread**
+- [The State of the Web - A guide to impactful performance improvements](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) #article
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947) #article 
+**#mustread**
 - [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) #article #guide
 - [The Service Worker Cookbook](https://serviceworke.rs) #book
 - [What makes a good frontend developer?](https://zellwk.com/blog/good-frontend-developer) #article
