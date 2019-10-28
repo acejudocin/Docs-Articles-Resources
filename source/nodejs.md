@@ -33,6 +33,7 @@
 - [Advanced Node.js Project Structure Tutorial](https://blog.codeship.com/advanced-node-js-project-structure-tutorial) #tutorial
 - [From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless](https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56) #article #guide
 - [Best Practices For Using TypeScript with Node.js](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803) #article #guide
+- [How to write production-ready Node.js Rest API — Typescript version](https://medium.com/bb-tutorials-and-thoughts/how-to-write-production-ready-node-js-rest-api-typescript-version-94e993b368c0) #article #guide
 - [Design patterns in Node.js: A practical guide](https://blog.logrocket.com/design-patterns-in-node-js/) #article
 - [How to send an SMS in Node.js via SMPP Gateway](https://medium.com/free-code-camp/how-to-send-an-sms-in-node-js-via-smpp-gateway-9c7b12e4600a) #tutorial
 - [Node Cookbook 3rd Edition](https://github.com/PacktPublishing/Node-Cookbook-3rd-Ed) #book #free
